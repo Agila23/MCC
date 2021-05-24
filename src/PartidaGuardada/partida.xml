@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Estructura.EstructuraGuardado>
+  <inventario/>
+  <palabasClave>
+    <string>Gato Negro</string>
+  </palabasClave>
+  <habilidades>
+    <string>Persuasion</string>
+    <string>Psicologia</string>
+    <string>Biologia</string>
+    <string>Descubrir</string>
+    <string>Ciencias Ocultas</string>
+  </habilidades>
+  <dialogo>Por eso hoy has quedado con el en el bar El Gato Negro para acabar de concretar en que consiste el trabajo y el pagouna vez se haya completado. </dialogo>
+  <personaje>
+    <Nombre></Nombre>
+    <Apellidos></Apellidos>
+    <Profesion></Profesion>
+    <Sexo>Hombre</Sexo>
+    <Fuerza>50</Fuerza>
+    <Constitucion>70</Constitucion>
+    <Tamano>70</Tamano>
+    <Destreza>80</Destreza>
+    <Inteligencia>90</Inteligencia>
+    <Educacion>80</Educacion>
+    <Vida>0</Vida>
+    <Bonus__Atq>0</Bonus__Atq>
+    <Dinero>0</Dinero>
+    <habiliades reference="../../habilidades"/>
+  </personaje>
+  <rutaImagen>le:/C:/Users/Adrig/OneDrive/Documentos/NetBeansProjects/Juego1/dist/Juego1.jar!/Imagenes/habitacion.jpg</rutaImagen>
+</Estructura.EstructuraGuardado>
